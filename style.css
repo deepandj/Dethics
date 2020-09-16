@@ -212,7 +212,7 @@ footer h4:hover
       }
  }
  /*mobile*/
- @media screen and (max-width:500px)
+ @media screen and (max-width:570px)
  {
     .logo
     {
